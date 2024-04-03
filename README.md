@@ -52,6 +52,6 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vijayan-0908&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=virtual1008&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijayan-0908&layout=compact&theme=vision-friendly-dark)](https://github.com/vijayan-0908/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virtual1008&layout=compact&theme=vision-friendly-dark)](https://github.com/vijayan-0908/github-readme-stats)
